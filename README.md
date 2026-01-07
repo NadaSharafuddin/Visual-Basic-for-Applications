@@ -7,3 +7,5 @@ I also published a complete course on Data Validation for ETL Projects, where I 
 This course is designed for anyone working with data migration, ETL workflows, or data quality assurance who wants to ensure accuracy, consistency, and reliability across systems.
 
 👉 Check it out here: https://youtu.be/8vI3IbxhLAg?si=z0aaesUXpyOpEZT8
+
+I laso created a 5 hours multi-questions course that is  designed to help you prepare for the UiPath Advanced RPA Developer (UiARD) Certification and Certified Professional Automation Developer exam. It provides high-quality, exam-focused practice questions and real-world scenarios, with detailed explanations for complex concepts to deepen your understanding.  Check it out here: https://youtu.be/YITk7Zum9sw?si=FUm94GXk3-DJFw-y
